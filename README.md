@@ -22,8 +22,10 @@ A custom screenshot of a download button. You can use Snipping Tool or `WIN + SH
 
 ## Usage
 
-Make sure you have the screenshot in the same folder as your script with the name `slow download button.png`.
+Run Wabbajack and begin downloading your modlist. Once a new window opens, letting you download specific mod via either slow or fast download off of Nexus, take a screenshot of the slow button.
 
-Run the script and reposition the console window so that it does not obstruct the Wabbajack window.
+Make sure you have the screenshot in the same folder as your script with a name `slow download button.png`.
 
-Hold `CTRL + E` if you want to end the script.
+Run the script and reposition your windows so that none of them obstruct the Nexus window.
+
+Follow the instructions in the python console. Hold `CTRL + E` if you want to end the script.
