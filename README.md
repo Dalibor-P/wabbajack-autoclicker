@@ -21,6 +21,6 @@ A screenshot of a download button (it's in the archive).
 
 ## Usage
 
-Make sure you have the screenshot in the same folder as your script. Run the script and reposition the console so that it does not obstruct the Wabbajack window.
+Make sure you have the screenshot in the same folder as your script. Run the script and reposition the console window so that it does not obstruct the Wabbajack window.
 
 Hold `CTRL + E` if you want to end the script.
