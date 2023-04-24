@@ -9,7 +9,7 @@ You can still use your PC while the script is running, as long as you don't obst
 - The script literary just clicks on a button if it finds it. If the button is obstructed, it can't click on it.
 - It doesn't check if there is already a download in progress. This script is intended to download mods that are small in size (max 50 MB). Fortunately, Wabbajack sorts the downloaded mods by their size, starting with the smallest of mods.
 
-## Prequisites
+## Prerequisites
 
 [Python 3.x](https://www.python.org/downloads/)
 
