@@ -10,6 +10,7 @@ You can still use your PC while the script is running, as long as you don't obst
 - It doesn't start parallel  downloads. The script monitors your down rate and only starts downloading the next file once the previous one is completed.
 - The download button is responsive, so you need to make a custom screenshot for your window size.
 - This isn't fast download you would get for buying Nexus Premium. It's automation of the free slow download. You are still limited to 1.5 MB or 3 MB down speed and forced to wait 5s.
+- **Oh yeah, and it's probably against Nexus TOS.**
 
 ## Prerequisites
 
